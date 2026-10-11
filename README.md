@@ -52,5 +52,4 @@ Desenvolvimento de aplicações web com JavaScript, React, HTML e CSS.
 
 Conquistar uma oportunidade de estágio ou posição júnior na área de desenvolvimento de software, contribuindo para projetos reais e evoluindo continuamente como desenvolvedora.
 
-
-⭐ Obrigada por visitares o meu perfil!
+ Obrigada por visitares o meu perfil!
